@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "513210799137",
+    "project_id": "instachat-60cfb",
+    "storage_bucket": "instachat-60cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513210799137:android:f71c6a8507b80e960ebf60",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_55"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513210799137-088cnp7d8jftjbr43an10afcu9e3oh7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_55",
+            "certificate_hash": "0afb4ed0210362d8ea319aac8bdcc5f3d63c1907"
+          }
+        },
+        {
+          "client_id": "513210799137-lq8i3vcb003edqe12m80ole7ll69eu4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOvrLAlcozjK5C-7i8kaFhji9N3FNj0bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513210799137-lq8i3vcb003edqe12m80ole7ll69eu4v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513210799137-n9l1mf94r03233o9akanli852avhb5ti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication55"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
