@@ -1,16 +1,43 @@
-# flutter_application_55
+# chatWeMeet
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Dart](https://img.shields.io/badge/dart-100%25-brightgreen)
+![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)
 
-A new Flutter project.
+<b>Simple, Decent & Feature Rich Chatting Application.</b></br>
 
-## Getting Started
+<b>Final Apk:</b><br>
+https://drive.google.com/file/d/1mfIbPLbeozghsBkMjiXNdwKCcfWTOO3u/view?usp=sharing
+<br>(Global Apk ~ 23 mb - Supports all devices)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
+<kbd>
+<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/8.png" width=30% height=30%/>
+<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/2.png" width=30% height=30%/>
+<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/3.png" width=30% height=30%/>
+<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/4.png" width=30% height=30%/>
+<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/5.png" width=30% height=30%/>
+<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/6.png" width=30% height=30%/>
+<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/7.png" width=30% height=30%/>
+</kbd>
+<br>
+<br>
+  
+ <b>Features👇 : </b>
+<ul>
+<li>Show only known users or contacts
+<li>Real-Time Messaging (With Firebase)
+<li>Google Sign-In (No account or mobile number needed)
+<li>Adding Users using Email Id
+<li>Simple User Profile (with Photo, About, Last-seen, Created-at)
+<li>Message Read Status
+<li>Message Delete & Edit Feature
+<li>Message Notification (Push Notification)
+<li>Decent UI with New Material Widgets
+<li>And Much More....
+</ul>
+  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!--  <b>Note:</b> This Project is Much More Improved (i.e. Contains New Features) & Optimized than Youtube Course Project. -->
+For Feedback or Suggestions Mail Me At prathameshdshinde55@gmail.com 🙂
